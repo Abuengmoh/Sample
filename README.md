@@ -2,9 +2,11 @@
 
 Monophase is *a one-column minimal responsive Jekyll blog theme*.
 
-One of the purposes of Monophase is to be an alternative option to the default theme of Jekyll—[Minima](https://github.com/jekyll/minima). Monophase is still keeping minimal, but meanwhile, more beautiful and mellow, and doesn't lose some useful basic features, such as archive.
+One of the purposes of Monophase is to be an alternative option to the default theme of Jekyll—[Goden](https://github.com/Abuengmoh/Abuengmoh.github.io). Monophase is still keeping minimal, but meanwhile, more beautiful and mellow, and doesn't lose some useful basic features, such as archive.
 
 Check the *[live demo](https://zivlog.io/monophase/)*.
+
+![EnergyImage](EnergyImage.PNG)
 
 ![Screenshot Light](screenshot-light.png)
 ![Screenshot Dark](screenshot-dark.png)
