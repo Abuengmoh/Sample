@@ -1,4 +1,4 @@
-# Monophase <!-- omit in toc -->
+# Data Analysis <!-- omit in toc -->
 
 Monophase is *a one-column minimal responsive Jekyll blog theme*.
 
